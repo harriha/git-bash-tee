@@ -1,0 +1,14 @@
+{
+  "name": "git-bash-tee",
+  "version": "0.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "postinstall": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
